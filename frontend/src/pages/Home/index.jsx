@@ -5,7 +5,7 @@ import ContentHeader from "../../components/ContentHeader";
 const Home = () => {
   return (
     <Container>
-      <ContentHeader />
+      <ContentHeader title="Home"/>
       Page Home
     </Container>
   );

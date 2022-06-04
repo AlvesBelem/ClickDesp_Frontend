@@ -6,8 +6,6 @@ const SelectInput = ({ value, label }) => {
     <Container>
       <select>
         <option {...value}>{label}</option>
-        <option {...value}>{label}</option>
-        <option {...value}>{label}</option>
       </select>
     </Container>
   );

@@ -1,7 +1,7 @@
 //pages
 
 //styles
-import GlobalStyles from "./globalStyles/GlobalStyles";
+import GlobalStyles from "./GlobalStyles/GlobalStyles";
 import Routes from "./routes/App.routes";
 
 const App = () => {

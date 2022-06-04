@@ -5,7 +5,7 @@ import ContentHeader from "../../components/ContentHeader";
 const Budgets = () => {
   return (
     <Container>
-      <ContentHeader />
+      <ContentHeader title="Orçamentos"/>
       Page Orçamentos
     </Container>
   );

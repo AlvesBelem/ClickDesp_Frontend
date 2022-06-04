@@ -5,7 +5,7 @@ import ContentHeader from "../../components/ContentHeader";
 const Clients = () => {
   return (
     <Container>
-      <ContentHeader />
+      <ContentHeader title="Clientes"/>
       Page Clientes
     </Container>
   );

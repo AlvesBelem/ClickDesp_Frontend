@@ -5,7 +5,7 @@ import ContentHeader from "../../components/ContentHeader";
 const Dashboard = () => {
   return (
     <Container>
-      <ContentHeader />
+      <ContentHeader title="Dashboard"/>
       Page Dashboard
     </Container>
   );

@@ -30,7 +30,7 @@ const Aside = () => {
             Home
           </MenuItemLink>
         </Link>
-        <Link to="/dashborad">
+        <Link to="/dashboard">
           <MenuItemLink>
             <MdDashboard />
             Dashboard
