@@ -23,6 +23,10 @@ export const MenuContainer = styled.nav`
   display: flex;
   flex-direction: column;
   margin-top: 50px;
+
+  > a {
+    text-decoration: none;
+  }
 `;
 
 export const MenuItemLink = styled.a`

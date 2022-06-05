@@ -12,7 +12,7 @@ import {
   MdDashboard,
   MdDirectionsCar,
   MdExitToApp,
-  MdDocumentScanner,
+  MdOutlineReceiptLong,
   MdPerson,
   MdHome,
 } from "react-icons/md";
@@ -50,7 +50,7 @@ const Aside = () => {
         </Link>
         <Link to="/budgets">
           <MenuItemLink>
-            <MdDocumentScanner />
+            <MdOutlineReceiptLong />
             Orçamentos
           </MenuItemLink>
         </Link>

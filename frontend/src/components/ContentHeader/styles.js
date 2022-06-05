@@ -15,10 +15,12 @@ export const TitleContainer = styled.div`
     content: "";
     display: block;
     width: 55px;
-    border-bottom: 10px solid red;
+    border-bottom: 5px solid red;
   }
 `;
 
 export const Controllers = styled.div`
   display: flex;
+  align-items: center;
+  justify-content: center;
 `;

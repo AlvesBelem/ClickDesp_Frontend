@@ -1,6 +1,7 @@
 import React, { useMemo } from "react";
 import emojis from "../../Utils/emojis";
 import { Container, Profile, Welcome, UserName } from "./styles";
+
 // components
 
 const MainHeader = () => {
